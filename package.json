@@ -1,0 +1,21 @@
+{
+  "name": "nodejsdw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.16",
+    "bootstrap": "^5.3.8",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mysql": "^2.18.1",
+    "sanitize-html": "^2.17.0",
+    "tailwindcss": "^4.1.16"
+  },
+  "description": ""
+}
